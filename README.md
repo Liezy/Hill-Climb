@@ -13,6 +13,14 @@ Este repositório apresenta uma abordagem passo a passo do Hill Climbing, um mé
 4. Parada ao alcançar estagnação ou limite de iterações :contentReference[oaicite:1]{index=1}.
 
 ---
+### Membros do Grupo
+
+- Cássio Coutinho
+
+- Eliézer Alencar
+
+- Júlia Leal
+---
 
 ## Sumário  
 - [Instalação](#instalação)  
